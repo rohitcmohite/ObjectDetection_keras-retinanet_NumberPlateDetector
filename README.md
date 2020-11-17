@@ -5,7 +5,7 @@ Number plate dataset is obtained from kaggle.
 ## Visualising the dataset
 
 <img src="images/1.png" width="600" height="450" >
-![](images/1.PNG)
+![](images/one.png)
 
 ## Visualising predictions
 <img src="images/2.png" width="600" height="450" >
