@@ -12,4 +12,4 @@ Number plate dataset is obtained from kaggle.
 ![](images/2.PNG)
 
 <img src="images/3.png" width="600" height="450" >
-![](images/3.PNG)
+![](images/three.png)
