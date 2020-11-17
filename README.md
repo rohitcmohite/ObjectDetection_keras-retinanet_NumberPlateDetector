@@ -8,8 +8,10 @@ Number plate dataset is obtained from kaggle.
 ![](https://github.com/rohitcmohite/ObjectDetection_keras-retinanet_NumberPlateDetector/blob/main/images/one.png)
 
 ## Visualising predictions
-<img src="images/2.png" width="600" height="450" >
-![](images/2.PNG)
 
-<img src="images/3.png" width="600" height="450" >
-![](images/three.png)
+Here yellow bounding box is ground truth amd blue is predicted
+
+![](https://github.com/rohitcmohite/ObjectDetection_keras-retinanet_NumberPlateDetector/blob/main/images/2.PNG)
+
+
+![](https://github.com/rohitcmohite/ObjectDetection_keras-retinanet_NumberPlateDetector/blob/main/images/3.PNG)
